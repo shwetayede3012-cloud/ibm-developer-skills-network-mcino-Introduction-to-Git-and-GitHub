@@ -9,7 +9,7 @@ essentials.
 ## Project Name
 Simple Interest Calculator
 
-## Description
+
 The simple interest calculator takes three inputs from the user:
 - **Principal Amount** — the initial sum of money
 - **Rate of Interest** — the annual interest rate (in percentage)
