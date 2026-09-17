@@ -15,7 +15,7 @@ The simple interest calculator takes three inputs from the user:
 - **Rate of Interest** — the annual interest rate (in percentage)
 - **Time Period** — the duration in years
 
-Using these values, the script calculates simple interest using the formula:
+Using  values, the script calculates simple interest using the formula:
 
 Simple Interest = (Principal × Rate × Time) / 100
 ## How to Run
