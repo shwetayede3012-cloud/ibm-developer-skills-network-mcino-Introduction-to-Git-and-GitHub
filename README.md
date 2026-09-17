@@ -1,11 +1,32 @@
 # ibm-developer-skills-network-mcino-Introduction-to-Git-and-GitHub
-# My GitHub and Git Final Project
+# Simple Interest Calculator
 
-This repository demonstrates my understanding of Git and GitHub fundamentals, 
-including forking, cloning, branching, merging, and creating pull requests. 
-It includes essential open-source project files such as a license, code of 
-conduct, contributing guidelines, and a simple Bash script for calculating 
-simple interest.
+This repository contains a Bash script that calculates simple interest based 
+on user input. The project was built to demonstrate practical use of Git and 
+GitHub workflows, including repository setup, branching, and version control 
+essentials.
 
 ## Project Name
-Git and GitHub Essentials - Final Project
+Simple Interest Calculator
+
+## Description
+The simple interest calculator takes three inputs from the user:
+- **Principal Amount** — the initial sum of money
+- **Rate of Interest** — the annual interest rate (in percentage)
+- **Time Period** — the duration in years
+
+Using these values, the script calculates simple interest using the formula:
+
+Simple Interest = (Principal × Rate × Time) / 100
+## How to Run
+1. Clone this repository.
+2. Run the script using: `bash simple-interest.sh`
+3. Enter the principal, rate, and time when prompted.
+4. The calculated simple interest will be displayed in the terminal.
+
+## Repository Contents
+- `README.md` — project overview
+- `LICENSE` — Apache 2.0 license
+- `CODE_OF_CONDUCT.md` — community guidelines
+- `CONTRIBUTING.md` — contribution guidelines
+- `simple-interest.sh` — Bash script for the calculator
