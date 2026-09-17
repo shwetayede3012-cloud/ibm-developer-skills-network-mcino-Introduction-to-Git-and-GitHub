@@ -28,5 +28,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 - `README.md` — project overview
 - `LICENSE` — Apache 2.0 license
 - `CODE_OF_CONDUCT.md` — community guidelines
+
+- This is a small fix to demonstrate branching and merging.
 - `CONTRIBUTING.md` — contribution guidelines
 - `simple-interest.sh` — Bash script for the calculator
